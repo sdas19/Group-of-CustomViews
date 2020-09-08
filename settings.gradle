@@ -1,0 +1,2 @@
+rootProject.name='CustomViewGroups'
+include ':app'
